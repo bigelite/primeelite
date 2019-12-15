@@ -1,1 +1,3 @@
 message: helloworld1
+server:
+  port: 8000
